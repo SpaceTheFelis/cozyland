@@ -1,0 +1,2 @@
+# cozyland
+My Hyprland setup 
